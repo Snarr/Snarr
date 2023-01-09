@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Snarr
-- 👀 I’m interested in Web Development, UI/UX Design, Specification Documents (JPEG, PNG, WebSockets)
+- 👀 I’m interested in Web Development, UI/UX Design, and learning about various specifications (JPEG, PNG, WebSockets)
 - 🌱 I’m currently learning TypeScript, Next.js, Hugo, and the Canvas API
-- 🔨 I'm currently building [Engine](https://github.com/Snarr/Engine), a drawing and game creation library written in TypeScript
+- 🔨 I'm currently building [Schedule Sync](https://github.com/Snarr/schedule-sync), a web app for helping friend groups organize their free time
 - 💞️ I’m looking to collaborate on... anything! Just reach out :)
 - 📫 Reach out at [@snarr_dev](https://www.twitter.com/snarr_dev) on Twitter or [jacobsnarr@gmail.com](mailto:jacobsnarr@gmail.com) 
 
