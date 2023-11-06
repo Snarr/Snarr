@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snarr
-- 👀 I’m interested in Web Development, UI & UX Design, and learning about technical specifications (file formats, networking, CPU architectures)
+- 👀 I’m interested in Web Development, UI & UX Design, and learning technical specifications (file formats, networking, CPU architectures)
 - 🌱 I’m currently exploring Emulator Design, 3D Printing, and soon PCB Design
 - 🏫 I'm currently pursuing a B.S. in Computer Science with a certificate in Computer Security and Digital Forensics
 - 🗣️ I'd be happy to talk about any of my projects or experiences. Just reach out!
