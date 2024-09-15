@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Snarr
-- 👀 I’m interested in Web Development, UI & UX Design, and specifications (file formats, networking, CPU architectures)
-- 🌱 I’m currently exploring Emulator Design, 3D Printing, and PCB Design!
-- 🏫 I'm currently pursuing a B.S. in Computer Science with a certificate in Computer Security and Digital Forensics
+- 🐴 I'm currently working at [LittleHorse](https://github.com/littlehorse-enterprises)
+- 🌱 I’m currently exploring Apache Kafka and Docker
 - 🗣️ I'd be happy to talk about any of my projects or experiences. Just reach out!
 - 📫 Reach out at [@snarr_dev](https://www.twitter.com/snarr_dev) on Twitter or [jacobsnarr@gmail.com](mailto:jacobsnarr@gmail.com) 
