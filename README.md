@@ -2,4 +2,4 @@
 - 🐴 I'm currently working at [LittleHorse](https://github.com/littlehorse-enterprises)
 - 🌱 I’m currently exploring Apache Kafka and Docker
 - 🗣️ I'd be happy to talk about any of my projects or experiences. Just reach out!
-- 📫 Reach out at [@snarr_dev](https://www.twitter.com/snarr_dev) on Twitter or [jacobsnarr@gmail.com](mailto:jacobsnarr@gmail.com) 
+- 📫 Reach out at [jacob@snarr.dev](mailto:jacob@snarr.dev) 
